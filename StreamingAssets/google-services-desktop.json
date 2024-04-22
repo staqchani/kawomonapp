@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283799025615",
+    "firebase_url": "https://kawamon-f7a4e-default-rtdb.firebaseio.com",
+    "project_id": "kawamon-f7a4e",
+    "storage_bucket": "kawamon-f7a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283799025615:android:1f8ed52e4a405765ab04ba",
+        "android_client_info": {
+          "package_name": "com.kawamon.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283799025615-budt3f6cctnf7auj7jcr9ktjr2e5f9kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aunpKcbZvnfLR0pbMpUPQfrxik3FLqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283799025615-budt3f6cctnf7auj7jcr9ktjr2e5f9kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
